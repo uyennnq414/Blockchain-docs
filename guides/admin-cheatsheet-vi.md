@@ -1,4 +1,4 @@
-# Admin cheatsheet — Demo FAPEX (1 trang)
+# Admin cheatsheet — Demo FAPEX 
 
 **Route:** `/admin` · **Chain:** Sepolia · **UI:** English · **Auth:** ví MetaMask (on-chain roles)
 
